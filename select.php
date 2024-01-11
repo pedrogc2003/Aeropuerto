@@ -28,6 +28,7 @@ if ($result) {
         echo "Número de Linea: " . $resultado['linea'] . "<br>";
         echo "Número de Pasajeros: " . $resultado['pasajeros'] . "<br>";
         echo "--------------------------<br>";
+        echo "Prueba";
     }
 } else {
     echo "Ha ocurrido algún error";
